@@ -336,7 +336,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: mvcnet 2s ease;
 }
 .netcore {
-  	width: 70%;
+  	width: 80%;
   	-moz-animation: netcore 2s ease;
   	-webkit-animation: netcore 2s ease;
 }
@@ -351,17 +351,17 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: html5 2s ease;
 }
 .jquery {
-  	width: 65%;
+  	width: 70%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
 .angular {
-  	width: 40%;
+  	width: 60%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
 .oracle {
-  	width: 45%;
+  	width: 50%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
@@ -376,7 +376,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes netcore {
   0%   { width: 0px;  }
-  100% { width: 70%;  }
+  100% { width: 80%;  }
 }
 @-moz-keyframes sql {
   0%   { width: 0px;  }
@@ -388,25 +388,25 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes jquery {
   0%   { width: 0px;  }
-  100% { width: 65%;  }
+  100% { width: 70%;  }
 }
 @-moz-keyframes angular {
   0%   { width: 0px;  }
-  100% { width: 40%;  }
+  100% { width: 60%;  }
 }
 @-moz-keyframes oracle {
   0%   { width: 0px;  }
-  100% { width: 45%;  }
+  100% { width: 50%;  }
 }
 
 
 @-webkit-keyframes aspnet {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 90%;  }
 }
 @-webkit-keyframes mvcnet {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 80%;  }
 }
 @-webkit-keyframes netcore {
   0%   { width: 0px;  }
@@ -422,16 +422,16 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes jquery {
   0%   { width: 0px;  }
-  100% { width: 65%;  }
+  100% { width: 70%;  }
 }
 
 @-webkit-keyframes angular {
   0%   { width: 0px;  }
-  100% { width: 40%;  }
+  100% { width: 60%;  }
 }
-@-webkit-keyframes angular {
+@-webkit-keyframes oracle {
   0%   { width: 0px;  }
-  100% { width: 45%;  }
+  100% { width: 50%;  }
 }
 
 
